@@ -58,7 +58,6 @@ I’m passionate about **AI, Data Analytics, and building real-world tech soluti
 | **Project** | **Description** |
 |------------|----------------|
 | **Parklytics – Smart Parking Analytics System** | Data-driven system to optimize parking usage and reduce search time by ~44% |
-| 🔗 *(Add GitHub repo link here)* | Built with Python, Flask, Pandas, Flutter |
 
 ---
 
